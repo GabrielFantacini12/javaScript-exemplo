@@ -1,0 +1,13 @@
+#success{
+    display: none;
+    background-color: #ddffdd;
+    border-left: 6px solid #04aa6d;
+}
+
+#msg {
+    display: none;
+}
+
+#msgBold {
+    display: none;
+}
